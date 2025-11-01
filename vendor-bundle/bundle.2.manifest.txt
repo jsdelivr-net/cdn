@@ -1,5 +1,6 @@
 swup.umd-4.8.2.min.js
 swup-head-plugin-umd-2.3.1.min.js
+swup-progress-plugin-umd-3.2.0.min.js
 fast-json-patch-3.1.1.min.js
 gate.min.js
 iconify-icon-3.0.1.min.js
